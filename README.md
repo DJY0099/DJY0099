@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJY0099
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Linux and Cybersecurity
+- 👀 I’m interested in programming languages
+- 🌱 I’m a Sys Admin that is still learning Linux and Cybersecurity
 - 💞️ I’m looking to collaborate on mobile apps development
 - 📫 How to reach me: kewlio9000@yahoo.com
 
