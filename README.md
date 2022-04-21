@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJY0099
 - 👀 I’m interested in programming languages
-- 🌱 I’m a Sys Admin that is still learning Linux and Cybersecurity
-- 💞️ I’m looking to collaborate on mobile apps development
+- 🌱 I’m a Systems Admin that is always learning and improving my skills
+- 💞️ I’m looking to collaborate on apps development
 - 📫 How to reach me: djy3000@gmail.com
 
 <!---
