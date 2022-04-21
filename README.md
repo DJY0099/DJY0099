@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages
 - 🌱 I’m a Sys Admin that is still learning Linux and Cybersecurity
 - 💞️ I’m looking to collaborate on mobile apps development
-- 📫 How to reach me: kewlio9000@yahoo.com
+- 📫 How to reach me: djy3000@gmail.com
 
 <!---
 DJY0099/DJY0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
